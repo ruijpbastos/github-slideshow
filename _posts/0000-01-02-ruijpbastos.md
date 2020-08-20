@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Whatever I want
+Chaos is just and undecifered order.
 Use the left arrow to go back!
